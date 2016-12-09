@@ -1,0 +1,1111 @@
+html
+{
+
+}
+
+/* Header */
+
+#header
+{
+    background: transparent url('/wp/wp-content/uploads/backheader.jpg') repeat-x;
+}
+
+.inner-header {
+    padding:0;
+    border:0;
+    margin:0;
+}
+
+.irss
+{
+    background: transparent url('/wp/wp-content/themes/itacare/img/icon-rss.png');    
+}
+
+.iplay
+{
+    background: transparent url('/wp/wp-content/themes/itacare/img/icon-play.png');    
+}
+
+.iface
+{
+    background: transparent url('/wp/wp-content/themes/itacare/img/icon-facebook.png');    
+}
+
+.itwit
+{
+    background: transparent url('/wp/wp-content/themes/itacare/img/icon_instagram.jpg');    
+}
+
+.site-header .site-logo {
+    margin:0;
+}
+
+.header-icon {
+    width:50px;
+    height:50px;
+    display:block;
+    float:left;
+    background-color: #603913;
+    border-left:1px solid #886b4e;
+    opacity:1;
+
+}
+
+.header-icon:hover {
+    opacity:.9;  
+}
+
+.top-header-icons
+{
+    float:left;
+}
+
+hgroup
+{
+    display:none;
+}
+
+.header-area
+{
+    text-transform: uppercase;
+    font-family: 'Noto Sans', sans-serif;
+    font-size:12px;
+    font-weight: bold;
+    color: #444;
+    background: transparent url('/wp/wp-content/themes/itacare/img/seta-area.png') no-repeat;
+    display: block;
+    height:50px;
+    line-height: 48px;
+    margin-left:236px;
+    background-position: 170px 42%;
+    width:475px;    
+}
+
+.header-area-small
+{
+    text-transform: uppercase;
+    font-family: 'Noto Sans', sans-serif;
+    font-size:12px;
+    font-weight: bold;
+    color: #444;
+    background: transparent url('/wp/wp-content/themes/itacare/img/seta-area.png') no-repeat;
+    display: block;
+    height:50px;
+    line-height: 48px;
+    background-position: 170px 42%;
+    width:475px;    
+}
+
+#top-icons
+{
+    position:relative;
+    right:-288px;
+}
+
+.top-icons-small li
+{
+    list-style:none;
+}
+
+@media all and (max-width: 1000px) {
+    #top-icons
+    {
+        right:0;
+    }   
+}
+
+
+#top-icons li
+{
+    list-style:none;
+}
+
+/* Main Menu */
+
+#mobileMenuButton
+{
+    background-image:none !important;
+}
+
+.mobile-menu-icons
+{
+    float:left; 
+}
+
+.mobile_menu
+{
+     text-transform: uppercase;
+    font-family: 'Noto Sans', sans-serif;
+    font-size:12px;
+    font-weight: bold;
+    padding-left:10px;  
+    float:left;   
+}
+
+@media all and (max-width: 1000px) {
+    .main-nav
+    {
+        right:150px;
+    }   
+    
+    .menu-item-41
+    {
+        display:none;
+    }
+    
+}
+
+@media all and (max-width: 938px) {
+
+}
+
+
+#main-menu li
+{
+    padding-left:0;
+    padding-right:0;
+    list-style: none;
+    display:block;
+    
+}
+
+
+.section-container
+{
+       
+}
+.section-container.horizontal-nav {
+background: none !important; 
+border: 0;
+}
+
+.section-container.horizontal-nav .section .title
+{
+    border:0 !important;
+}
+
+.section-container p
+{
+    min-width:103px;
+    border:0;
+}
+
+.main-nav
+{
+    position:relative;
+}
+
+.main-nav a
+{
+    float:left;
+    height:80px;
+    font-family: 'Noto Sans', sans-serif;
+    text-transform: uppercase;
+    font-size:12px !important;
+    padding-top:2em !important;
+    font-weight: bold;
+    color:#fff !important;
+    text-align: center;
+    line-height: 15px;
+    display:block;
+    background: transparent url('/wp/wp-content/themes/itacare/img/bg-menu.png');
+    border-left:1px solid #f5f5f5;
+    padding-left: 0px !important;    
+    padding-right: 0px !important;    
+}
+
+#menu .section-container.horizontal-nav .section .title.active a, #menu .section-container.horizontal-nav.auto .section .title.active a {
+    background: transparent url('/wp/wp-content/themes/itacare/img/bg-menu-hover.png') !important; 
+}
+
+.main-nav a:hover, .main-nav p.active a:hover 
+{
+    background: transparent url('/wp/wp-content/themes/itacare/img/bg-menu-hover.png');    
+}
+
+/* Slider */
+
+#slider
+{
+    background: transparent url('/wp/wp-content/uploads/backpattern.png') repeat-x;
+    
+}
+
+
+.orbit-prev,.orbit-next
+{
+    display:none;
+}
+
+.orbit-timer
+{
+    top:90% !important;
+}
+
+.orbit-slide-number
+{
+    display:none;
+}
+
+#slider-front-page 
+{
+    padding: 0;
+}
+
+.orbit-caption {
+    position: absolute;
+    top: 0;
+    background-color: transparent !important;
+    color: #fff;
+    width: 100%;
+    padding: 10px 14px;
+    font-size: 0.875em;
+}
+
+.orbit-caption p, .orbit-caption h4
+{
+    padding:10px 20px;
+    font-family: 'Noto Serif', serif;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.orbit-caption h4
+{
+    margin-top:20px;
+    margin-bottom:0
+}
+
+.slide-title
+{
+    background-color: #fff; 
+    color:#cb9731 !important;
+    width:70%;
+    font-size: 2em;
+      
+}
+
+@media all and (max-width: 480px) {
+    .slide-title
+    {
+        font-size: 1em !important;
+        width:90% !important; 
+    }   
+}
+
+
+
+.slide-title a
+{
+    color:#cb9731 !important;
+}
+
+
+.slide-excerpt
+{
+    background-color:#cb9731 !important;
+    color:#000 !important;
+    width:40%;
+    font-size: 1em; 
+}
+
+/* Depoimentos */
+
+#depoimentos
+{
+        margin:1em 0;
+        background: transparent url('/wp/wp-content/themes/itacare/img/bg-depoimentos.jpg') no-repeat center center;
+        overflow: auto;
+}
+
+#depoimentos p
+{
+    text-align: center;
+    margin:0 10%;
+    font-family: 'Noto Sans', sans-serif;
+}
+
+.depoimento
+{
+    padding-top: 2em;
+    font-size: .9em;
+}
+
+.autor
+{
+    padding-top: 2em;
+    padding-bottom: 2em;
+    font-size: .7em;
+}
+
+/* Bolas */
+
+
+.b1,.b2,.b3,.b4, .bm1, .bm2, .bm3, .bm4
+{
+    position: relative;
+}
+
+.bb1,.bb3
+{
+    border-right:1px solid #ccc;
+}
+
+.bb2,.bb4
+{
+    border-left:1px solid #ccc; 
+    left:-1px;   
+}
+
+.b1,.b3
+{
+    float:right;
+}
+
+.bm1,.bm3
+{
+
+}
+
+
+.bm2,.bm4
+{
+    text-align:right;
+}
+
+#bb h4
+{
+    font-family: 'Noto Serif', serif;
+    font-style: italic;
+    padding-top:1.5em;
+}
+
+#bb p 
+{
+    font-family: 'Noto Sans', sans-serif;
+    font-size:12px
+}
+
+.bm1 h4, .bm3 h4
+{
+    color:#006633;    
+}
+
+.bm2 h4,.bm4 h4
+{
+    color:#009999;
+}
+
+/* Call Box Home */
+
+#call-home
+{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+#call-home a
+{
+    height:100px;
+    padding:0 10px;
+    line-height:20px;
+    display:block;
+    padding-top: 29px;
+    font-family: 'Noto Sans', sans-serif;
+    font-size:14px;
+    color:#fff;
+    text-align: center;
+    background: transparent url('/wp/wp-content/themes/itacare/img/box-call.jpg') no-repeat center center;
+}
+
+#call-home a:hover
+{
+    opacity:.9;
+}
+
+/* Blog Home */
+
+.archive-title
+{
+    display:block !important; 
+        font-family: 'Noto Serif', serif;
+    font-style: italic; 
+        font-size:32px;
+    color:#cb9833
+}
+
+#blog-home
+{
+    background-color: #f5f5f5;
+}
+
+#blog-home h3
+{
+    font-family: 'Noto Serif', serif;
+    font-style: italic;
+    padding-top:50px; 
+   
+}
+
+#blog-home .entry-title
+{
+    font-family: 'Noto Serif', serif;
+    font-style: italic; 
+    font-size:14px;   
+}
+
+#blog-home .entry-content
+{
+    font-family: 'Noto Sans', sans-serif;
+    font-size:12px;   
+}
+
+#blog-home .entry-thumbnail
+{
+    padding:10px;
+    background: url(/wp/wp-content/themes/itacare/img/bg-blog-post.png) no-repeat;
+    background-size: cover;
+
+}
+
+.entry-readmore a
+{
+    background: url(/wp/wp-content/themes/itacare/img/bt-continue-lendo.png) no-repeat;
+    width:150px;
+    height:30px;
+    display:block;    
+}
+
+.entry-readmore a:hover
+{
+    opacity: .8;
+    transition: all 0.2s ease-out;    
+}
+
+/* Home sidebars */
+
+
+.newsletter, .indique, .agende
+{
+    padding:20px;
+    color:#fff;
+    font-family: 'Noto Sans', sans-serif;
+    font-size:12px;
+}
+
+.newsletter h4,.indique h4,.agende h4
+{
+    font-family: 'Noto Serif', serif;
+    font-style: italic;
+    color:#fff;    
+}
+
+.newsletter
+{
+    background-color: #006633;
+}
+
+::-webkit-input-placeholder { /* WebKit browsers */
+    color:    #333;
+}
+:-moz-placeholder { /* Mozilla Firefox 4 to 18 */
+    color:    #333;
+}
+::-moz-placeholder { /* Mozilla Firefox 19+ */
+    color:    #333;
+}
+:-ms-input-placeholder { /* Internet Explorer 10+ */
+    color:    #333;
+}
+
+#newsletter-home .frm_form_fields  input[type=text], #newsletter-home .frm_form_fields  input[type=email]
+{
+    border-left:15px solid #fff !important;
+    background: #80b399 !important;
+    color:#000 !important;
+}
+
+.newsletter h4
+{
+    padding-top:30px;
+    font-size:32px;
+}
+
+.indique
+{
+    background: #0f8383 url(/wp/wp-content/themes/itacare/img/bg-indique.jpg) no-repeat center center;
+    background-size: cover;
+}
+
+.indique h4, .agende h4
+{
+    font-size:14px;
+    text-align: center;
+}
+
+.indique p, .agende p
+{
+    text-align: center;
+}
+
+.agende
+{
+    background: #af8737 url(/wp/wp-content/themes/itacare/img/bg-agende.jpg) no-repeat center center;
+    background-size: cover;
+    border-bottom:10px solid #603913;
+}
+
+/* Footer */
+
+footer
+{
+    padding-top:40px;
+}
+
+
+.footer-categories ul, .footer-menu ul
+{
+    margin-left:2px;
+}
+
+.footer-categories li, .footer-menu li
+{
+    list-style: none;   
+    height:20px;
+}
+
+.footer-categories li a, .footer-menu li a
+{
+    color:#333;
+    font-size:12px;
+    text-transform: uppercase;
+    font-weight: 700;
+    line-height: 25px;
+    font-family: 'Noto Sans', sans-serif;   
+}
+
+.footer-categories li a:hover, .footer-menu li a:hover
+{
+    color:#cf9f48;
+}
+
+
+footer h4
+{
+    font-family: 'Noto Serif', serif;
+    font-style: italic;
+    color:#cf9f48;  
+    font-size:14px;  
+}
+
+.footer-twits li 
+{
+    list-style:none;
+    font-family: 'Noto Sans', sans-serif;
+    font-size:12px;
+    padding-bottom:20px;
+
+}
+.footer-twits li li
+{
+    display:block;
+    float:left;
+}
+
+.bird 
+{
+    width:20%;
+    padding-top:5px;
+}
+.twit 
+{
+    width:80%;
+}
+
+
+#colophon
+{
+    text-align:left;
+}
+
+.site-info
+{
+    background-color: #f5f5f5;   
+}
+
+/* Content */
+
+#content p
+{
+    font-family: 'Noto Sans', sans-serif;
+    font-size:12px;
+}
+
+.site-content
+{
+    background: transparent url(/wp/wp-content/themes/itacare/img/bg-content.jpg) repeat-x;    
+}
+
+.site-content h1
+{
+    display:none;
+}
+
+.site-content
+{
+    
+}
+
+.site-content h2
+{
+    font-family: 'Noto Serif', serif;
+    font-size:18px;
+    color:#006633;
+    font-style: italic;
+}
+
+.site-content div div div
+{
+   
+}
+
+/* Grafico Fracional */
+
+.grafico_fracional
+{
+    background-color: #f5f5f5;
+    padding:30px;
+}
+
+/* Sidebar */
+
+#sidebar h4
+{
+    font-size:14px;
+    font-family: 'Noto Serif', serif;
+    font-weight:bold;
+    font-style: italic;
+    color:#cb9731;
+    border-top: 1px solid #ccc;
+    border-bottom: 1px solid #ccc;
+    padding:10px 20px; 
+}
+
+#sidebar li
+{
+    list-style: none;
+}
+
+#sidebar li a, .tagcloud a
+{
+    color: #333;
+    font-size: 14px;
+    text-transform: uppercase; 
+    font-weight: 700;
+    line-height: 25px;
+    font-family: 'Noto Sans', sans-serif;
+}
+
+.tagcloud a
+{
+    text-transform: none !important;
+    font-weight: 400 !important;    
+}
+
+#sidebar form
+{
+    margin:0 !important;
+}
+
+#sidebar ul
+{
+    margin-left:20px;
+}
+
+
+#sidebar li a:hover, .tagcloud a:hover
+{
+    color: #cf9f48;
+}
+
+.popular-posts img
+{
+    float:left;
+    padding-right:10px;
+    padding-bottom:10px;
+}
+
+.popular-posts li
+{
+    clear: both;
+    width: 100%;
+    display: block;
+    line-height:1.2
+}
+
+.popular-posts ul
+{
+    margin: 0 !important;    
+}
+
+.popular-posts a
+{
+    text-transform: none !important;
+    font-weight:normal !important;
+    font-size: 12px !important;
+    
+}
+
+.post-stats
+{
+    display:none;
+}
+
+.widget_archive select
+{
+    background-color: #e5cb98;
+    padding: 5px;
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 12px;
+    border:10px solid #cb9731;
+}
+
+/* Posts Relacionados */
+ul.related_post li a
+{
+     font-family: 'Noto Sans', sans-serif;
+    font-size: 12px;
+    color:#333;   
+}
+
+/* Botões */
+
+button, #newsletter-home  input[type=submit] {
+  background: transparent url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA2ZpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMy1jMDExIDY2LjE0NTY2MSwgMjAxMi8wMi8wNi0xNDo1NjoyNyAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDowN0I5QzREOEQ3QkJFMjExOTM4MEE3ODUxQTA4RDdGQyIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDpENkQyMjFGM0VGMDQxMUUyQUZCNEE1RThFRDNCQUEzQiIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDpENkQyMjFGMkVGMDQxMUUyQUZCNEE1RThFRDNCQUEzQiIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M2IChXaW5kb3dzKSI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOkY0RDdENTc0ODdEM0UyMTE4NjhGODc0QzZCMTM2OEE3IiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOjA3QjlDNEQ4RDdCQkUyMTE5MzgwQTc4NTFBMDhEN0ZDIi8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+1BNRkgAAAC5JREFUeNqMyrENACAMwLByOacb9QISKZsPJnRn4eerIhWpSEUqUpGKVLQ9AQYAT7ZByVh4TywAAAAASUVORK5CYII=) no-repeat 90%;
+  border:1px solid #fff;
+  padding: 10px 30px;
+  text-align: center;
+  color:#fff;
+  border-radius:0;
+  font-size:12px;
+  font-weight:bold;
+  box-shadow: none;
+}
+
+button:hover, #newsletter-home  input[type=submit]:hover
+{
+    opacity: .7;
+    background-color: transparent;
+}
+
+
+/* Facebook Comments */
+
+/* Post */
+
+.entry-content
+{
+     font-size:12px;
+    font-family: 'Noto Serif', serif;   
+}
+
+h3.related_post_title
+{
+    font-size:14px;
+    font-family: 'Noto Serif', serif;
+    font-weight:bold;
+    font-style: italic;
+    color:#cb9731;
+    border-top: 1px solid #ccc;
+    border-bottom: 1px solid #ccc;
+    padding:10px 20px !important;     
+}
+
+div.wp_rp_content {
+display: block !important;
+}
+
+.entry-title
+{
+color:#333 !important;   
+}
+
+.entry-date
+{
+    font-family: 'Noto Serif', serif;
+    font-weight:bold;
+    font-style: italic;
+    font-size:18px;
+    color:#cb9731;  
+}
+
+/* Busca */
+
+.busca, .widget_newsletter form
+{
+    background-color: #cb9731;
+    padding:10px;
+        font-family: 'Noto Sans', sans-serif;
+    font-size: 12px;
+}
+
+#widget_newsletter .submit
+{
+    height:20px;
+}
+
+
+.busca input, #widget_newsletter .frm_form_fields input
+{
+    background-color: #e5cb98 !important;
+    border:none  !important;
+}
+
+
+#widget_newsletter .frm_form_field
+{
+    margin-bottom:10px;    
+}
+
+.botao_busca, #widget_newsletter input[type=submit]
+{
+    float:right;
+    width:30px;
+    height:30px;
+    background-image: url(/wp/wp-content/themes/itacare/img/botao-busca.jpg);
+    text-indent:-3000px;
+    border:none;
+    box-sizing:none;
+    padding:0;
+    border-radius:0;
+
+}
+
+/* Agende */
+
+.post-32 h2, .post-32 h3, .post-33 h2, .post-33 h3  
+{
+    color:#0099a5 !important;
+    margin:15px 0 !important;
+}
+
+.post-32 h3, .post-33 h3
+{
+    text-transform: uppercase;
+    font-family: 'Noto Sans', sans-serif;
+    font-weight:bold;
+    font-size:12px;
+}
+
+.frm_description
+{
+    margin:20px 0 !important;
+}
+
+.frm_form_fields input[type=text], .frm_form_fields input[type=email], .frm_form_fields input[type=tel], .frm_form_fields textarea
+{
+    border-left:10px solid #66cccc !important;
+    background-color: #e5f5f5 !important;
+    font-family: 'Noto Sans', sans-serif !important;
+    font-size:12px !important;
+}
+
+.post-32 .submit input[type=submit], .post-33 .submit input[type=submit], #indique-email .submit input[type=submit]
+{
+    background-image: url(/wp/wp-content/themes/itacare/img/bt_enviar_agende.jpg) !important;
+    width:151px;
+    height:50px;
+    border:0 !important;
+    margin:0 !important;
+    padding:0 !important;
+    box-shadow:none !important;
+    border-radius:0 !important;
+    text-indent: -3000px;
+}
+
+/* FAQ */
+
+.qa-faq-anchor
+{
+    color:#006633;  
+    text-transform: uppercase;
+    font-family: 'Noto Sans', sans-serif;
+    font-weight:bold;
+    font-size:14px; 
+    background: transparent url(/wp/wp-content/themes/itacare/img/seta-verde.png) no-repeat left center !important;
+    padding-left:15px;
+    
+}
+.qa-faq-answer p, .qa_faqs p    
+{
+    background-color: #e5e5e5;
+    padding:20px;
+}
+
+#qaplus_searchform
+{
+    background-color: #006633;
+    padding: 10px;
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 12px;
+}
+.faq-catname
+{
+    color:#cb9731 !important;
+}
+
+.qa_faqs h1
+{
+    display:block !important;
+    font-family: 'Noto Serif', serif;
+    font-weight:bold;
+    font-size:20px;
+    color:#006633;
+}
+/* Vantagens */
+
+
+.vantagem_texto
+{
+    background-color:#006633;
+    color:#fff;
+    height:50px;
+    line-height:50px;
+    padding-left:25px;
+    margin-top: -2px;
+    width:300px;
+    display:block;
+    margin-bottom:20px;
+    font-family: 'Noto Sans', sans-serif;
+}
+
+.vantagem {
+  position: relative;
+  width: 300px;
+  cursor: pointer;
+}
+
+.vantagem-mais {
+    background: url('/wp/wp-content/themes/itacare/img/saiba_mais.png');
+    width:150px !important;
+    margin-left:78px !important;
+    height:40px;
+    display:block;
+}
+
+.vantagem .vantagem-mais {
+  display: none;
+  position:absolute;
+  z-index: 2;
+  width: 100%;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+  top: 40%;
+}
+
+/* Galeria */
+.fr-info-background
+{
+    background-color:#cb9731 !important;
+}
+
+/* Indique */
+#indique-email
+{
+    background-color:#009899;
+    max-width:300px;
+    padding:20px;
+}
+
+#indique-email h3
+{
+    color:#fff;
+    font-family: 'Noto Serif', serif;
+    font-style:italic;
+    font-size: 14px;
+    padding:0 5%;
+    text-align:center;
+    padding-bottom:15px;
+}
+
+#newsletter-ok
+{
+    width:299px;
+    height:247px;
+    padding:0;
+}
+
+
+/* fixes */
+
+#blog-home h3
+{
+    color: #cb9731 !important;
+}
+
+#blog-home .entry-date
+{
+    color: #cb9731 !important;
+    padding:0 !important;
+    font-size:12px !important;
+}
+
+#frm_form_7_container input, #frm_form_7_container textarea {font-style:normal !important;}
+#frm_form_8_container input, #frm_form_8_container textarea {font-style:normal !important;}
+#frm_form_9_container input, #frm_form_9_container textarea {font-style:normal !important;}
+#frm_form_10_container input, #frm_form_10_container textarea {font-style:normal !important;}
+#frm_form_12_container input, #frm_form_12_container textarea {font-style:normal !important;}
+
+/* Call */
+
+.call-out a {
+height: 100px;
+padding: 0 10px;
+line-height: 20px;
+display: block;
+padding-top: 29px;
+font-family: 'Noto Sans', sans-serif;
+font-size: 14px;
+color: #fff;
+text-align: center;
+background: transparent url('/wp/wp-content/themes/itacare/img/box-call.jpg') no-repeat center center;
+margin-bottom:20px;
+    float:left;
+    margin-right:25px; 
+}
+
+.call-out a:hover {
+    opacity:.9;
+background: transparent url('/wp/wp-content/themes/itacare/img/box-call.jpg') no-repeat  center 1px;
+}
+
+.call-out-large a {
+    width:250px; 
+
+}
+
+.call-out-xlarge a {
+    width:300px; 
+}
+
+.calllink a {
+color: #006633;
+text-transform: uppercase;
+font-family: 'Noto Sans', sans-serif;
+font-weight: bold;
+font-size: 14px;
+padding-right:20px;
+background: transparent url(/wp/wp-content/themes/itacare/img/seta-verde.png) no-repeat right center !important;
+}
+
+.with_frm_style .frm_blank_field input[type=text], .with_frm_style .frm_blank_field input[type=password], .with_frm_style .frm_blank_field input[type=url], .with_frm_style .frm_blank_field input[type=tel], .with_frm_style .frm_blank_field input[type=number], .with_frm_style .frm_blank_field input[type=email], .with_frm_style .frm_blank_field textarea, .with_frm_style .frm_blank_field select, .frm_form_fields_error_style, .with_frm_style .frm_blank_field #recaptcha_area, .with_frm_style .frm_blank_field .chzn-container-multi .chzn-choices
+{
+    border-color: #cb9731 !important;
+}
+
+.frm_error {
+color: #cb9731 !important;
+margin-top:5px; !important;
+}
+

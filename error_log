@@ -1,0 +1,43 @@
+[19-May-2015 13:03:20 America/Sao_Paulo] PHP Fatal error:  Call to undefined function get_header() in /home/itacareparadise/public_html/wp-content/themes/itacare/index.php on line 11
+[19-May-2015 13:03:20 America/Sao_Paulo] PHP Fatal error:  Call to undefined function get_header() in /home/itacareparadise/public_html/wp-content/themes/itacare/index.php on line 11
+[19-May-2015 13:03:25 America/Sao_Paulo] PHP Fatal error:  Call to undefined function get_header() in /home/itacareparadise/public_html/wp-content/themes/itacare/index.php on line 11
+[19-May-2015 13:03:26 America/Sao_Paulo] PHP Fatal error:  Call to undefined function get_header() in /home/itacareparadise/public_html/wp-content/themes/itacare/index.php on line 11
+[19-May-2015 13:07:58 America/Sao_Paulo] PHP Fatal error:  Call to undefined function get_header() in /home/itacareparadise/public_html/wp-content/themes/itacare/index.php on line 11
+[19-May-2015 13:07:58 America/Sao_Paulo] PHP Fatal error:  Call to undefined function get_header() in /home/itacareparadise/public_html/wp-content/themes/itacare/index.php on line 11
+[19-May-2015 13:08:04 America/Sao_Paulo] PHP Fatal error:  Call to undefined function get_header() in /home/itacareparadise/public_html/wp-content/themes/itacare/index.php on line 11
+[19-May-2015 13:08:04 America/Sao_Paulo] PHP Fatal error:  Call to undefined function get_header() in /home/itacareparadise/public_html/wp-content/themes/itacare/index.php on line 11
+[14-Jan-2016 18:34:45 America/Sao_Paulo] PHP Fatal error:  Call to undefined function get_header() in /home/itacareparadise/public_html/wp-content/themes/itacare/index.php on line 11
+[14-Jan-2016 18:34:46 America/Sao_Paulo] PHP Fatal error:  Call to undefined function get_header() in /home/itacareparadise/public_html/wp-content/themes/itacare/index.php on line 11
+[14-Jan-2016 18:34:49 America/Sao_Paulo] PHP Fatal error:  Call to undefined function get_header() in /home/itacareparadise/public_html/wp-content/themes/itacare/index.php on line 11
+[14-Jan-2016 18:34:50 America/Sao_Paulo] PHP Fatal error:  Call to undefined function get_header() in /home/itacareparadise/public_html/wp-content/themes/itacare/index.php on line 11
+[01-Mar-2016 06:36:58 America/Sao_Paulo] PHP Fatal error:  Call to undefined function language_attributes() in /home/itacareparadise/public_html/wp-content/themes/itacare/header.php on line 25
+[01-Mar-2016 06:36:58 America/Sao_Paulo] PHP Fatal error:  Call to undefined function locate_template() in /home/itacareparadise/public_html/wp-content/themes/itacare/functions.php on line 13
+[01-Mar-2016 06:36:58 America/Sao_Paulo] PHP Fatal error:  Class 'dw_twitter_query_Widget' not found in /home/itacareparadise/public_html/wp-content/themes/itacare/footer.php on line 20
+[01-Mar-2016 06:36:59 America/Sao_Paulo] PHP Fatal error:  Call to undefined function get_header() in /home/itacareparadise/public_html/wp-content/themes/itacare/author.php on line 11
+[01-Mar-2016 06:36:59 America/Sao_Paulo] PHP Fatal error:  Call to undefined function get_header() in /home/itacareparadise/public_html/wp-content/themes/itacare/archive.php on line 11
+[01-Mar-2016 06:36:59 America/Sao_Paulo] PHP Fatal error:  Call to undefined function get_header() in /home/itacareparadise/public_html/wp-content/themes/itacare/404.php on line 11
+[01-Mar-2016 06:36:59 America/Sao_Paulo] PHP Fatal error:  Call to undefined function get_header() in /home/itacareparadise/public_html/wp-content/themes/itacare/404.php on line 11
+[13-Mar-2016 05:45:15 America/Sao_Paulo] PHP Fatal error:  Call to undefined function locate_template() in /home/itacareparadise/public_html/wp-content/themes/itacare/functions.php on line 13
+[13-Mar-2016 05:45:16 America/Sao_Paulo] PHP Fatal error:  Call to undefined function get_header() in /home/itacareparadise/public_html/wp-content/themes/itacare/404.php on line 11
+[13-Mar-2016 05:45:16 America/Sao_Paulo] PHP Fatal error:  Class 'dw_twitter_query_Widget' not found in /home/itacareparadise/public_html/wp-content/themes/itacare/footer.php on line 20
+[21-May-2016 12:16:27 America/Sao_Paulo] PHP Fatal error:  Call to undefined function get_header() in /home/itacareparadise/public_html/wp-content/themes/itacare/404.php on line 11
+[24-May-2016 03:43:34 America/Sao_Paulo] PHP Fatal error:  Call to undefined function get_header() in /home/itacareparadise/public_html/wp-content/themes/itacare/author.php on line 11
+[04-Jul-2016 17:09:10 America/Sao_Paulo] PHP Fatal error:  Call to undefined function get_header() in /home/itacareparadise/public_html/wp-content/themes/itacare/index.php on line 11
+[04-Jul-2016 17:09:10 America/Sao_Paulo] PHP Fatal error:  Call to undefined function get_header() in /home/itacareparadise/public_html/wp-content/themes/itacare/index.php on line 11
+[04-Jul-2016 17:09:18 America/Sao_Paulo] PHP Fatal error:  Call to undefined function get_header() in /home/itacareparadise/public_html/wp-content/themes/itacare/index.php on line 11
+[04-Jul-2016 17:09:19 America/Sao_Paulo] PHP Fatal error:  Call to undefined function get_header() in /home/itacareparadise/public_html/wp-content/themes/itacare/index.php on line 11
+[05-Jul-2016 22:45:33 America/Sao_Paulo] PHP Fatal error:  Call to undefined function get_header() in /home/itacareparadise/public_html/wp-content/themes/itacare/404.php on line 11
+[05-Jul-2016 22:45:56 America/Sao_Paulo] PHP Fatal error:  Call to undefined function get_header() in /home/itacareparadise/public_html/wp-content/themes/itacare/author.php on line 11
+[07-Jul-2016 17:49:34 America/Sao_Paulo] PHP Fatal error:  Call to undefined function locate_template() in /home/itacareparadise/public_html/wp-content/themes/itacare/functions.php on line 13
+[26-Jul-2016 09:11:20 America/Sao_Paulo] PHP Fatal error:  Call to undefined function get_header() in /home/itacareparadise/public_html/wp-content/themes/itacare/404.php on line 11
+[26-Jul-2016 09:11:24 America/Sao_Paulo] PHP Fatal error:  Call to undefined function get_header() in /home/itacareparadise/public_html/wp-content/themes/itacare/author.php on line 11
+[26-Jul-2016 09:11:27 America/Sao_Paulo] PHP Fatal error:  Call to undefined function get_header() in /home/itacareparadise/public_html/wp-content/themes/itacare/404.php on line 11
+[27-Jul-2016 23:51:16 America/Sao_Paulo] PHP Fatal error:  Call to undefined function get_header() in /home/itacareparadise/public_html/wp-content/themes/itacare/404.php on line 11
+[01-Aug-2016 18:19:04 America/Sao_Paulo] PHP Fatal error:  Call to undefined function get_header() in /home/itacareparadise/public_html/wp-content/themes/itacare/archive.php on line 11
+[01-Aug-2016 18:19:05 America/Sao_Paulo] PHP Fatal error:  Call to undefined function get_header() in /home/itacareparadise/public_html/wp-content/themes/itacare/author.php on line 11
+[03-Aug-2016 04:16:00 America/Sao_Paulo] PHP Fatal error:  Call to undefined function locate_template() in /home/itacareparadise/public_html/wp-content/themes/itacare/functions.php on line 13
+[06-Aug-2016 02:19:48 America/Sao_Paulo] PHP Fatal error:  Call to undefined function locate_template() in /home/itacareparadise/public_html/wp-content/themes/itacare/functions.php on line 13
+[07-Aug-2016 14:07:27 America/Sao_Paulo] PHP Fatal error:  Call to undefined function language_attributes() in /home/itacareparadise/public_html/wp-content/themes/itacare/header.php on line 25
+[07-Aug-2016 14:07:28 America/Sao_Paulo] PHP Fatal error:  Class 'dw_twitter_query_Widget' not found in /home/itacareparadise/public_html/wp-content/themes/itacare/footer.php on line 20
+[07-Aug-2016 14:07:29 America/Sao_Paulo] PHP Fatal error:  Call to undefined function get_header() in /home/itacareparadise/public_html/wp-content/themes/itacare/404.php on line 11
+[10-Aug-2016 21:51:48 America/Sao_Paulo] PHP Fatal error:  Call to undefined function locate_template() in /home/itacareparadise/public_html/wp-content/themes/itacare/functions.php on line 13
